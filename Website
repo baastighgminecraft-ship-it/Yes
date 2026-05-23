@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>My first website</title>
+</head>
+<body style="background-color: #91b591; color: #fff; font-family: Arial, Helvetica, sans-serif; text-align: center;">
+    
+    
+    
+    
+    <h6>Give</h6>
+    <br>
+    <h5>Dont take</h5>
+    <br>
+    <h4>Spread Love</h4>
+    <br>
+    <h3>Stop waiting</h3>
+    <br>
+    <h2>Stop all Wars</h2>
+    <br>
+    <h1>Spread Positivity</h1>
+    <br>
+    
+    <br>
+    <hr>
+    <a href="https://www.youtube.com/@Yoxin3" title="This is my Youtube Account Please Subscribe">
+    <img src="YouTube-Logo.png" height="300" alt="This is a Picture of the Youtube Logo">
+    </a>
+    <a href="https://www.instagram.com/yoxin03/#" title="This is my Instagram Account Please Follow me">
+    <img src="1715965947instagram-logo-png (1).png" height="300" alt="This is a Picture of The Instagram Logo">
+    </a>
+    <a href="http://LAPTOP-SCIRCQJ6:5500/page2.html" title="Greatest Frank Ocean Song ever!" ><video controls loop src="Download.mp4">
+    </a>
+    <a href="http://LAPTOP-SCIRCQJ6:5500/page3.html" title="This website was made by AI">
+    <h1>This website was made by AI</h1>
+    </a>
+    <audio controls src="Frank Ocean - White Ferrari.mp3">
+    <!--how are you seeing this comment?-->
+
+
+</body>
+</html>
